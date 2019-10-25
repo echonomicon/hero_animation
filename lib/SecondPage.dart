@@ -8,7 +8,7 @@ class SecondPage extends StatelessWidget {
       appBar: AppBar(
         backgroundColor: Colors.black,
         title: Text(
-          "Hero Animation",
+          "HERO Animation",
           style: TextStyle(color: Colors.white),
         ),
       ),
